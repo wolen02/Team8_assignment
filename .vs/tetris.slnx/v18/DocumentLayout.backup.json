@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wnwlt\\Desktop\\tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Shell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|solutionrelative:tetris\\Shell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|solutionrelative:tetris\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|solutionrelative:tetris\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|solutionrelative:tetris\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08360978-71EC-4BF9-9192-C17CA7FB8F78}|tetris\\tetris.vcxproj|solutionrelative:tetris\\tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shell.h",
+              "DocumentMoniker": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Shell.h",
+              "RelativeDocumentMoniker": "tetris\\Shell.h",
+              "ToolTip": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Shell.h",
+              "RelativeToolTip": "tetris\\Shell.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T12:54:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Block.h",
+              "DocumentMoniker": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Block.h",
+              "RelativeDocumentMoniker": "tetris\\Block.h",
+              "ToolTip": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Block.h",
+              "RelativeToolTip": "tetris\\Block.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T12:54:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Board.h",
+              "RelativeDocumentMoniker": "tetris\\Board.h",
+              "ToolTip": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\Board.h",
+              "RelativeToolTip": "tetris\\Board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T12:54:24.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\GameManager.h",
+              "RelativeDocumentMoniker": "tetris\\GameManager.h",
+              "ToolTip": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\GameManager.h",
+              "RelativeToolTip": "tetris\\GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T12:53:54.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tetris.cpp",
+              "DocumentMoniker": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\tetris.cpp",
+              "RelativeDocumentMoniker": "tetris\\tetris.cpp",
+              "ToolTip": "C:\\Users\\wnwlt\\Desktop\\tetris\\tetris\\tetris.cpp",
+              "RelativeToolTip": "tetris\\tetris.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-04T03:38:35.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

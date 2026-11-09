@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\gamemanager.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\gamemanager.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
