@@ -1,2 +1,7 @@
-﻿  tetris.cpp
-  tetris.vcxproj -> C:\Users\wnwlt\cpppgm-cpp2026-wolen02\tetris\x64\Debug\tetris.exe
+﻿  Block.cpp
+  Board.cpp
+  GameManager.cpp
+  Shell.cpp
+  tetris.cpp
+  코드를 생성하고 있습니다...
+  tetris.vcxproj -> C:\Users\wnwlt\Desktop\tetris\x64\Debug\tetris.exe

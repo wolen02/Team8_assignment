@@ -3,7 +3,9 @@
     "Data": {
         "Source": "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\gamemanager.h",
         "ProvidedModule": "",
-        "Includes": [],
+        "Includes": [
+            "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\board.h"
+        ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
     }
