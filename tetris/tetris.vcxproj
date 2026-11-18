@@ -141,18 +141,24 @@
   <ItemGroup>
     <ClCompile Include="Block.cpp" />
     <ClCompile Include="Board.cpp" />
+    <ClCompile Include="Farm.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameManager.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Shell.cpp" />
     <ClCompile Include="Stage.cpp" />
+    <ClCompile Include="Story.cpp" />
     <ClCompile Include="tetris.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Block.h" />
     <ClInclude Include="Board.h" />
+    <ClInclude Include="Farm.h" />
+    <ClInclude Include="Game.h" />
     <ClInclude Include="GameManager.h" />
     <ClInclude Include="Shell.h" />
     <ClInclude Include="Stage.h" />
+    <ClInclude Include="Story.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
