@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\shell.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\shell.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

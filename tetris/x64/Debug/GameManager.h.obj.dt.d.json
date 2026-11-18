@@ -4,7 +4,8 @@
         "Source": "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\gamemanager.h",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\board.h"
+            "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\board.h",
+            "c:\\users\\wnwlt\\desktop\\tetris\\tetris\\stage.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
