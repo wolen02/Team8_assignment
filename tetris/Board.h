@@ -1,7 +1,16 @@
-ï»¿#pragma once
-
-// ì¤„ë©”ë“œë‹˜ê³¼ ì—ë¥´ë´ë‹˜ì´ Board ê¸°ëŠ¥ê³¼ ìŠ¤í† ë¦¬ ì¶œë ¥ í™”ë©´, ë””ìì¸, ìŒí–¥ì„ ë‹´ë‹¹í•´ì£¼ì‹œë©´ ë˜ê³ ìš”.
-class Board
-{
+#pragma once 
+class Board {  
+private:  
+    static const int height = 21;  
+    static const int width = 14;  
+    char total_block[height][width];  
+public:  
+    Board();  
+    void initBoard();  // º¸µå¸¦ Ã³À½ »óÅÂ·Î ¸¸µé¾î
+    void showBoard() const;  // ÇöÀç º¸µå¸¦ È­¸é¿¡ º¸¿©ÁØµğ.
+    bool canPlaceBlock(const char shape[4][4], int x, int y) const;  // ºí·ÏÀ» ÀÌ À§Ä¡¿¡ ³õÀ» ¼ö ÀÖ´ÂÁö È®ÀÎÇÑµğ
+    void setBlock(const char shape[4][4], int x, int y);  // ºí·ÏÀ» º¸µå¿¡¼­ ÀúÀåÇØ¿ä
+    int checkFullLine();  // °¡µæ Âù ÁÙÀ» Áö¿ì°í, Áö¿î ÁÙÀÇ ¼ö¸¦ µ¹·ÁÁØ´Ù
+    int getCell(int x, int y) const;  // ÇØ´ç À§Ä¡ÀÇ °ªÀ» °¡Á®¿Â´Ù.
+    void setCell(int x, int y, int value);  // ÇØ´ç À§Ä¡ÀÇ °ªÀ» ¹Ù²ã¿ä
 };
-
